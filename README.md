@@ -5,97 +5,56 @@
 </p>
 
 ---
+UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
+UNIBRAS - União Brasileira de Desenvolvimento Social
 
-## 📌 Título do Projeto
+📌 Título do Projeto
 
-> Breve linha de destaque ou slogan técnico do projeto.
+🏭🥛 Lactec
 
-![status](https://img.shields.io/badge/status-em%20andamento-yellow)
+👥 Equipe de Autores e Participantes
 
----
 
-## 👥 Equipe de Autores e Participantes
+>👥 Alunos
+=======
+👥 Alunos
 
-### 👥 Alunos
 
-* [Integrante 1](https://www.linkedin.com/in/.../)
-* [Integrante 2](https://www.linkedin.com/in/.../)
-* [Integrante 3](https://www.linkedin.com/in/.../)
-* [Integrante 4](https://www.linkedin.com/in/.../)
-* [Integrante 5](https://www.linkedin.com/in/.../)
+[Arthur Brito]
 
+[Luiz Henrique M. Barbosa]
+
+[Haynan Jacob]
+
+[Fellipe Augusto]
+
+[Marcelo]
+
+[vitor]
+
+------
 ### 👔 Docentes e Orientação
+Orientador(a): FRANCISMAR ALVES MARTINS JUNIOR
 
-* **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-* **Coordenador(a):** [Nome do Coordenador(a)](#)
-
----
-
-## 🔬 1️⃣ Modelo para Pesquisa e Relatórios Científicos
-
+Coordenador(a): Guilherme Nogueira
+------
 ### 📝 Resumo
-
-> Texto conciso (150–250 palavras) apresentando o contexto, motivação, método utilizado e conclusões.
-
-### 🎯 Palavras‑chave
-
-Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
-
+>Este trabalho foi feito com o intuito de solucionar o problema de uma empresa láctea, relacionado à temperatura do leite, desde o momento da retirada do produto até a chegada nos comércios.
+------
 ### 🕹️ Introdução
-
-* Contextualização e importância do estudo.
-* Problema identificado.
-* Objetivos e escopo.
-
-### ⚡️ Metodologia
-
-* Descrição dos métodos e técnicas aplicadas.
-* Linguagem e Frameworks usados (Ex.: Python, Scikit‑Learn).
-* Etapas do experimento e critérios de avaliação.
-
-### 📊 Resultados e Discussões
-
-* Apresentação dos dados obtidos (tabelas, gráficos).
-* Análises e comparações com trabalhos correlatos.
-
+;Uma empresa da área de laticínios veio até nós com o intuito de solucionar seu problema.
+O problema em questão é a falta de monitoramento da temperatura do leite.
+O objetivo é construir um sensor térmico para monitorar essa temperatura.;
+------
 ### 🏁 Conclusões e Trabalhos Futuros
+>O resultado final foi a conclusão do projeto, no qual são emitidos alertas sonoros e visuais quando a temperatura chega aos extremos.
 
-* Resultado final e impacto esperado.
-* Limitações do estudo atual e caminhos para futuras pesquisas.
-
-### 📚 Referências Bibliográficas
-
-> Listagem de artigos, livros e demais fontes citadas (ABNT, APA ou outro padrão requerido).
-
-### ⚡️ Anexos e Links
-
-* Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
-* Link para vídeo de demonstração no YouTube (se aplicável).
-
----
-
-## 💻 2️⃣ Modelo para Disciplinas Específicas (Ex.: Engenharia de Software, IA, Banco de Dados)
+------
 
 ### 📄 Identificação
-
-* Disciplina: Ex.: Engenharia de Software, IA, Banco de Dados
-* Professor(a): [Nome do Professor(a)](#)
-
-### 🎯 Tema e Contextualização
-
-> Breve apresentação do tema abordado e importância para a área de estudo.
-
-### 🗺️ Especificações do Projeto
-
-* **Requisitos Funcionais e Não Funcionais**
-* **Regras de Negócio** ou escopo técnico específico para a área.
-
-### ⚡️ Arquitetura e Stack Utilizado
-
-* **Linguagem de Programação:** Ex.: Java, Python, C#
-* **Framework(s):** Ex.: Spring Boot, Django, React
-* **Banco de Dados:** Ex.: PostgreSQL, MySQL
-* **Bibliotecas e Ferramentas de Suporte:** Ex.: Pandas, Scikit‑Learn, JUnit
+Disciplina: Arquitetura e Organização de Computadores
+Professor(a): FRANCISMAR ALVES MARTINS JUNIOR
+------
 
 ### 🛠️ Estrutura do Repositório
 
@@ -112,57 +71,23 @@ templatesUNIBRAS/
 ├─ LICENSE
 ├─ README.md
 ```
-
-### ⚡️ Instruções para Build e Execução
-
-Exemplo para ambiente Java + Maven:
-
-```bash
-mvn clean install
-mvn spring-boot:run
-```
-
-Exemplo para ambiente Python:
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-### 📷 Evidências Visuais
-
-> Adição de capturas de tela e vídeos para demonstrar:
-
-* Resultado de operações no Banco de Dados.
-* Testes automatizados e relatório de cobertura.
-* Output e interface gráfica do sistema.
-
-Ex.:
-![Exemplo de Resultado Final](assets/screenshot.png)
-
-👉 [Assista à Demonstração do Sistema no YouTube](https://www.youtube.com/watch?v=EXEMPLO)
-
 ---
 
-## ⚡️ Critérios de Avaliação (Ex. Disciplinas Específicas)
+Exemplo de Resultado Final
+👌link do wokwi
+(https://wokwi.com/projects/448507547055723521)
 
-* Qualidade e clareza do código-fonte.
-* Adequação às normas e padrões de projeto.
-* Resultado final (usabilidade e eficiência técnica).
 
----
+      📷 Evidências Visuais
 
-## 📅 Histórico de Versões
+ <img src="src/wokwi.png" alt="imagem wokwi" >
 
-* **v0.5.0** - DD/MM/AAAA — Descrição técnica das mudanças implementadas.
-* **v0.4.0** - DD/MM/AAAA — Melhorias e refatorações para otimização de performance.
-* **v0.3.0** - DD/MM/AAAA — Adição de novas funcionalidades e integração de APIs.
-* **v0.2.0** - DD/MM/AAAA — Correções e ajuste de estrutura de dados.
-* **v0.1.0** - DD/MM/AAAA — Lançamento inicial e estrutura básica do projeto.
+⚡️ Critérios de Avaliação (Ex. Disciplinas Específicas)
+  Qualidade e clareza do código-fonte.
+  Adequação às normas e padrões de projeto.
+  Resultado final (usabilidade e eficiência técnica).
 
----
-
-## 📋 Licença e Atribuições
+📋 Licença e Atribuições
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg">
 
